@@ -1,4 +1,5 @@
 # WhatsApp API Multi Device Version
+go run main.go -b="useradmin:pass" -w="http://IPWASERV:8080/webhooks" --port 8000 --debug true
 
 [![Patreon](https://img.shields.io/badge/Support%20on-Patreon-orange.svg)](https://www.patreon.com/c/aldinokemal)  
 **If you're using this tools to generate income, consider supporting its development by becoming a Patreon member!**  
